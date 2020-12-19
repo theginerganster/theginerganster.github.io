@@ -1,0 +1,68 @@
+body {
+  font-family: 'Lato', arial, sans-serif;
+  color: #434343;
+  background-color: #ededed;
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.jumbotron{
+  padding-bottom: 10%;
+}
+
+h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  color: #14de76;
+}
+
+p {
+  font-size: 20px;
+  margin-bottom: 0px;
+}
+
+a {
+  color: #FFFFFF;
+  -webkit-transition: all 0.4s ease-in-out;
+  -moz-transition: all 0.4s ease-in-out;
+  -ms-transition: all 0.4s ease-in-out;
+  -o-transition: all 0.4s ease-in-out;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #C0C0C0;
+}
+
+a:focus {
+  text-decoration: none;
+}
+
+#contactRow{
+  color: #FFFFFF;
+}
+
+.banner{
+  color: #FFFFFF;
+}
+
+#titleRow{
+  background-color: #008190;
+  color: #FFFFFF;
+  display: flex;
+  justify-content: center
+}
+
+#footer{
+  display: flex;
+  justify-content: center
+}
+
+.imageRow{
+  display: flex;
+  justify-content: center
+}
